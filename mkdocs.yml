@@ -1,0 +1,22 @@
+site_name: msggigi's Profile 
+site_url: https://msggigi.github.io
+
+nav:
+   - Home: index.md
+   - Projects: projects.md
+   - Nerdstuff: nerd.md
+   - LOTD: blog/index.md
+   - About: about.md
+
+theme:
+  name: material
+
+
+plugins:
+  - search
+  - blog
+
+markdown_extensions:
+  - toc:
+      toc_depth: 0
+  - md_in_html
