@@ -19,6 +19,7 @@
 <div class="grid cards" markdown>
 
 - <i class="fa fa-camera-retro fa-lg"></i> __immich__ for photo management 
+
 ## Things to try
 
 ### Python
@@ -30,6 +31,7 @@
 - Web development
 
 ### Embedded and Rust
+
 <div class="grid cards" markdown>
 
 - <i class="fa fa-microchip fa-lg"></i> [__general__](#) embedded software development, starting with Raspi Pico
