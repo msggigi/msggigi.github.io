@@ -39,8 +39,11 @@
 
 <div class="grid cards" markdown>
  
-- <i class="fa fa-microchip fa-lg"></i> [__general__](#) embedded software development, starting with Raspi Pico
-  - [Embassy](https://github.com/embassy-rs/embassy)
+- <i class="fa fa-microchip fa-lg"></i> [__general__](#) embedded software development, starting with Raspi Pico <br>
+   * Using ferrocene compiler for safety critical applications <br>
+   * [Mixing C and Rust](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-1/)
+   * Implementing [OSEK compliant OS](https://www.autosartoday.com/posts/osek_os_in_practice)
+   * [Embassy](https://github.com/embassy-rs/embassy), 
 - <i class="fa fa-user-circle fa-lg"></i> [__rattler__](#), a conda alternative for crate management
 - Alternative Implementation of Taskjuggler in Rust for speedup
 
