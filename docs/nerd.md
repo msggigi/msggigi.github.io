@@ -17,25 +17,31 @@
 ## Planned
 
 <div class="grid cards" markdown>
-
-- <i class="fa fa-camera-retro fa-lg"></i> __immich__ for photo management 
+ 
+- <i class="fa fa-camera-retro fa-lg"></i> __immich__ for photo management
+  
+</div>
 
 ## Things to try
 
 ### Python
-<div class="grid cards" markdown>
 
+<div class="grid cards" markdown>
+ 
 - <i class="fa fa-window-restore fa-lg"></i> [__pixi__](https://pixi.sh/latest/) and [__uv__](https://github.com/astral-sh/uv) for package management, inspired by [Talk Python #439](https://talkpython.fm/episodes/show/439/pixi-a-fast-package-manager)
-- <i class="fa fa-bar-chart fa-lg"></i>  [__streamlit__](https://streamlit.io/) and [__dash__](https://dash.plotly.com/) for visualization
+- <i class="fa fa-bar-chart fa-lg"></i>  [__streamlit__](https://streamlit.io/) and [__dash__](https://dash.plotly.com/), __bokeh__ for visualization of __pandas__ or __pola.rs__ dataframes, alternatively __Shiny__ for Python
 - More Jupyter, for example Jupyter AI, [JupyterCAD](https://jupytercad.readthedocs.io/en/latest/index.html)
-- Web development
+- Web development, using __flask__, __SQLAlchemy__, __FastAPI__, ..., potentially HTMX
+  
+</div>
 
 ### Embedded and Rust
 
 <div class="grid cards" markdown>
-
+ 
 - <i class="fa fa-microchip fa-lg"></i> [__general__](#) embedded software development, starting with Raspi Pico
   - [Embassy](https://github.com/embassy-rs/embassy)
 - <i class="fa fa-user-circle fa-lg"></i> [__rattler__](#), a conda alternative for crate management
 - Alternative Implementation of Taskjuggler in Rust for speedup
+
 </div>
