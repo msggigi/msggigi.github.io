@@ -4,9 +4,11 @@ Nice to see you!
 
 ## why msggigi?
 
-msg: the initials
+for historical reasons.
 
-gigi: is/was my nickname
+msg are my initials.
+
+
 
 
 
